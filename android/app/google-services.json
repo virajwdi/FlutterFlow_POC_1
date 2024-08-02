@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150445138450",
+    "project_id": "flutterflowpoc3",
+    "storage_bucket": "flutterflowpoc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150445138450:android:efbae3446216dc39042ecb",
+        "android_client_info": {
+          "package_name": "com.mycompany.virajpoc2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6kelpvOO3Kc_lPx1tegDV2ii3ZHsW7og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
